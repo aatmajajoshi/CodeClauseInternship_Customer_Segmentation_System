@@ -1,1 +1,1 @@
-# CodeClauseInternship_Customer_Segmentation_System
+# Project 2 - CodeClauseInternship_Customer_Segmentation_System
